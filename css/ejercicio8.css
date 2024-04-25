@@ -1,0 +1,9 @@
+#caja1 {
+    background-color: blue;
+    width: 300px;
+    height: 200px;
+}
+
+.esconder {
+    display: none;
+}
